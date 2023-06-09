@@ -1,4 +1,4 @@
-<script src="script.js"></script>
+
 document.getElementById('memeForm').addEventListener('submit', function(event) {
   event.preventDefault(); // Prevent form submission
 
