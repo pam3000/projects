@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+#memesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.meme {
+  margin: 10px;
+  text-align: center;
+}
+
+.meme img {
+  max-width: 400px;
+}
+
+.meme p {
+  font-size: 24px;
+  font-weight: bold;
+}
