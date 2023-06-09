@@ -1,0 +1,41 @@
+[
+    {
+        "name": "History",
+        "questions": [
+            {
+                "question": "Who was the first President of the United States?",
+                "answer": "George Washington"
+            },
+            {
+                "question": "In what year did World War II end?",
+                "answer": "1945"
+            }
+        ]
+    },
+    {
+        "name": "Science",
+        "questions": [
+            {
+                "question": "What is the chemical symbol for hydrogen?",
+                "answer": "H"
+            },
+            {
+                "question": "What is the largest planet in our solar system?",
+                "answer": "Jupiter"
+            }
+        ]
+    },
+    {
+        "name": "Sports",
+        "questions": [
+            {
+                "question": "Which country won the FIFA World Cup in 2018?",
+                "answer": "France"
+            },
+            {
+                "question": "Who holds the record for the most home runs in Major League Baseball?",
+                "answer": "Barry Bonds"
+            }
+        ]
+    }
+]
